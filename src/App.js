@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import Weatherard from './Weatherard'
 
 function App() {
-  const [searchvalue, setsearchvalue] = useState("goa")
+  const [searchvalue, setsearchvalue] = useState("New york")
   const [tempinfo, settempinfo] = useState({})
 
   const getinfo = async () => {
