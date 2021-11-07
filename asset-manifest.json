@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/akglobalweather/static/css/main.a1efe6b7.chunk.css",
+    "main.js": "/akglobalweather/static/js/main.8f6dcc76.chunk.js",
+    "main.js.map": "/akglobalweather/static/js/main.8f6dcc76.chunk.js.map",
+    "runtime-main.js": "/akglobalweather/static/js/runtime-main.f6f2911f.js",
+    "runtime-main.js.map": "/akglobalweather/static/js/runtime-main.f6f2911f.js.map",
+    "static/js/2.ff829334.chunk.js": "/akglobalweather/static/js/2.ff829334.chunk.js",
+    "static/js/2.ff829334.chunk.js.map": "/akglobalweather/static/js/2.ff829334.chunk.js.map",
+    "index.html": "/akglobalweather/index.html",
+    "static/css/main.a1efe6b7.chunk.css.map": "/akglobalweather/static/css/main.a1efe6b7.chunk.css.map",
+    "static/js/2.ff829334.chunk.js.LICENSE.txt": "/akglobalweather/static/js/2.ff829334.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/akglobalweather/static/media/christmas-4701783_1920.1d186dcd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6f2911f.js",
+    "static/js/2.ff829334.chunk.js",
+    "static/css/main.a1efe6b7.chunk.css",
+    "static/js/main.8f6dcc76.chunk.js"
+  ]
+}
