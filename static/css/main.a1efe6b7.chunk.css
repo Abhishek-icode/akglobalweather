@@ -10,11 +10,11 @@ body{background-image:url(/akglobalweather/static/media/christmas-4701783_1920.1
 
 .cdiv{flex-direction:column}.cdiv,
 
-.inputbtn{display:flex;justify-content:center;align-items:center;width:auto}
+.inputbtn{display:flex;justify-content:center;align-items:center;}
 
 .input{border-color:#050538;background-color:#080841;margin:.5rem}.btn,
 
-.input{font-size:1.5rem;padding:.5rem;border-radius:1rem;color:#fff;width:auto;font-weight:700}
+.input{font-size:1.5rem;padding:.5rem;border-radius:1rem;color:#fff;font-weight:700}
 
 .btn{background-color:#111196;border-style:none}
 
@@ -35,20 +35,20 @@ body{background-image:url(/akglobalweather/static/media/christmas-4701783_1920.1
 .wind{color:#fff;text-align:center;font-size:2rem}
 
 @media(max-width:720px){
-	.inputbtn{width:50vw}
-	.box{width:auto;height:80wh}
+	.inputbtn{padding:1rem}
+	.box{width:auto;height:85wh}
 	.location{font-size:1rem}
 	.temprature{font-size:2rem}
 	.minmax,.wind{font-size:1rem}
-	.input{width:500px}
-	.titelname{font-size}}
+	.input{width:auto}
+	.titelname{font-size:2rem}}
 @media(max-width:1080px){
-	.inputbtn{width:50%}
-	.box{width:auto;height:90%}
+	.inputbtn{padding:1rem}
+	.box{width:auto;height:85vh}
 	.location{font-size:1.5rem}
 	.temprature{font-size:2.5rem}.minmax,
 	.wind{font-size:1.5rem}
-	.input{width:500px}
+	.input{width:auto}
 	.titelname
 {font-size: 2rem}}
 /*# sourceMappingURL=main.a1efe6b7.chunk.css.map */
